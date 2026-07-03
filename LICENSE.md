@@ -1,4 +1,4 @@
-# 
+# 顶级 CCleaner 预设 Mac OS版 | 原生 CCleaner 预设 PC Windows版。集成 Cookie管理 和 分卷压缩，跨平台性能最大化。
 
 
 
